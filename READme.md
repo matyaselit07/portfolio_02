@@ -1,15 +1,14 @@
-# Documentation
+## Documentation
 
-## Project description
-Ez a weboldal egy horgászbolt bemutatására készült.
-Bootstrap segítségével reszponzív kialakítást kapott.
+# Project description
+This is a portfolio work, presenting a fishing shop.
 
-## Website access
-    [https://matyaselit07.github.io/portfolio_02/]
+## Live Demo
+- [https://matyaselit07.github.io/portfolio_02/]
 
-## Used technologies, sites, etc
-- Bootstrap v5.3
-    [https://getbootstrap.com/]
+# Used technologies, sites, etc
+ Bootstrap v5.3
+- [https://getbootstrap.com/]
 
-## Pictures are from Unsplash
-    [https://unsplash.com/s/photos/fishing-rod]
+# Pictures are from Unsplash
+- [https://unsplash.com/s/photos/fishing-rod]
