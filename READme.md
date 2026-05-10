@@ -4,7 +4,7 @@
 This is a portfolio work, presenting a fishing shop.
 
 ## Live Demo
-- [https://matyaselit07.github.io/portfolio_02/]
+- [https://matyaselit07.github.io/Fishing_shop_Portfolio_work/]
 
 # Used technologies, sites, etc
  Bootstrap v5.3
